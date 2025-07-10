@@ -14,3 +14,12 @@ input {
     border: 3px solid black;
     border-radius: 20px;
 }
+
+.btn{
+    background-color: blue;
+    height: 35px;
+    width: 100px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
